@@ -1,0 +1,15 @@
+<string xmlns="http://www.webserviceX.NET">
+<?xml version="1.0" encoding="utf-16"?> 
+<CurrentWeather> 
+	<Location>Fortaleza / pinto Martins , Brazil (SBFZ) 03-47S 038-32W 25M</Location> 
+	<Time>Apr 18, 2014 - 03:00 PM EDT / 2014.04.18 1900 UTC</Time> 
+	<Wind> from the ENE (060 degrees) at 10 MPH (9 KT):0</Wind> 
+	<Visibility> greater than 7 mile(s):0</Visibility> 
+	<SkyConditions> partly cloudy</SkyConditions> 
+	<Temperature> 82 F (28 C)</Temperature> 
+	<DewPoint> 73 F (23 C)</DewPoint> 
+	<RelativeHumidity> 74%</RelativeHumidity>
+	<Pressure> 29.80 in. Hg (1009 hPa)</Pressure> 
+	<Status>Success</Status> 
+	</CurrentWeather>
+</string>

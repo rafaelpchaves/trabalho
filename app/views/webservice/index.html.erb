@@ -1,0 +1,5 @@
+<%= form_tag webservice_temperatura_path, method: :get do  %>
+  Cidade: <%= text_field_tag :city_name %><br />
+  Pais : <%= text_field_tag :country_name %><br />
+  <%= submit_tag 'Ver temperatura' %>
+<% end %>

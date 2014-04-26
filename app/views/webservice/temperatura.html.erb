@@ -1,0 +1,10 @@
+<h1>Temperatura</h1>
+
+<% if @teste['CurrentWeather'] %>
+	<% @teste['CurrentWeather'].each do |key, value| %>
+		<%= key %>: <b><%= value %></b>
+		<br>	
+	<% end %>
+<% end %>
+
+
